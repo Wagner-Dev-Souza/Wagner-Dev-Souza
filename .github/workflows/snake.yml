@@ -1,0 +1,68 @@
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: Wagner-Dev-Souza
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   - name: Run code on top of an LCG view
+  # You may pin to the exact commit or the version.
+  # uses: AIDASoft/run-lcg-view@9616cb419b1a2dd0fd08c9d6adcd8fe1edaaa5d0
+  uses: AIDASoft/run-lcg-view@v4
+  with:
+    # Which container to use as base to setup a view. By default the container is inferred from `view-path` (default: `auto`)
+    container: # optional, default is auto
+    # Location of container that has Coverity Scan installed (default: `ghcr.io/aidasoft/coverity:latest` but not public)
+    coverity-container: # optional, default is ghcr.io/aidasoft/coverity:latest
+    # CMake command for building your project, assuming in source build
+    coverity-cmake-command: # optional, default is 
+    # Coverity project name in URL encoding ( / -> %2F e.g. AIDASoft%2FDD4hep)
+    coverity-project: # optional, default is 
+    # Coverity project token to interact with the coverity server
+    coverity-project-token: # optional, default is 
+    # GitHub Personal Access Token for reading the Coverity image as it cannot be public
+    github-pat: # optional, default is 
+    # LCG view platform you are targeting (e.g. x86_64-centos8-gcc10-opt)
+    platform: # optional, default is 
+    # LCG view release you are targeting (e.g. LCG_99)
+    release: # optional, default is 
+    # LCG view release platform string you are targeting (e.g. LCG_99/x86_64-centos8-gcc10-opt
+    release-platform: # optional, default is 
+    # Use image from /cvmfs/unpacked.cern.ch with Singularity, or if false use GitHub Container Registry with Docker
+    unpacked: # optional, default is false
+    # They payload code you want to execute on top of the view
+    run: # optional, default is 
+    # Run the local checkout of the action and not the main repo code
+    run_local_checkout: # optional, default is false
+    # Initialization/Setup script for a view that sets the environment (e.g. setup.sh)
+    setup-script: # optional, default is setup.sh
+    # Custom path where the setup script for the view is location
+    view-path: # optional, default is 
+    
+    - name: workflow_run status
+  # You may pin to the exact commit or the version.
+  # uses: haya14busa/action-workflow_run-status@967ed83efa565c257675ed70cfe5231f062ddd94
+  uses: haya14busa/action-workflow_run-status@v1.0.0
+  with:
+    # GITHUB_TOKEN
+    github_token: # optional, default is ${{ github.token }}
+    # handle requested action type as pending
+    requested_as_pending: # optional, default is true
