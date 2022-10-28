@@ -1,4 +1,4 @@
-## Olá! Eu sou Wagner Silva Souza...
+## Olá! Eu sou Wagner Silva Souza...😊
 
 - 🔭 Atualmente cursando Superior de tecnologia em Desenvolvimento Backend
 - 🌱 Estudando Python / Javascript / Typescript
