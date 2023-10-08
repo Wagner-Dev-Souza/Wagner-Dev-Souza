@@ -1,11 +1,11 @@
 ## Olá! Eu sou Wagner Silva Souza...😊
 
-- 🔭 Atualmente cursando Superior de tecnologia em Desenvolvimento Backend
+- 🔭 Atualmente cursando Superior Analise e Desenvolvimento de Sistemas
 - 🌱 Estudando Python / Javascript / Typescript / Node.js
 
 <div align="center">
   <a href="https://github.com/Wagner-Dev-Souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wagner-Dev-Souza&show_icons=true&theme=dark&include_all_commits=false&count_private=true&show=total_commits,prs,issues,contribuited,star"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-Dev-Souza&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
