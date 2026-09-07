@@ -1,7 +1,7 @@
 ## Olá! Eu sou Wagner Silva Souza...😊
 
 - 🔭 Atualmente cursando Superior Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando Python / Javascript / Typescript / Node.js / Cloud / Java / Docker / Sql
+- 🌱 Estudando Python / Javascript / Typescript / Node.js / Claude / Java / Docker / Sql
 
 
 
