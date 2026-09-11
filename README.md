@@ -22,3 +22,12 @@
 </div>
 
 ##
+
+<!-- Cobrinha de contribuicoes - gerada automaticamente pela Action em .github/workflows/cobrinha.yml -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wagner-Dev-Souza/Wagner-Dev-Souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wagner-Dev-Souza/Wagner-Dev-Souza/output/github-contribution-grid-snake.svg">
+    <img alt="Cobrinha de contribuicoes" src="https://raw.githubusercontent.com/Wagner-Dev-Souza/Wagner-Dev-Souza/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
