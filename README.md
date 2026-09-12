@@ -15,6 +15,7 @@ A DBC Company me ofereceu conteúdo e flexibilidade para atuar em QA e Desenvolv
 ## 🛠️ Tecnologias
 
 - Python / Javascript / Typescript / Node.js / Claude / Java / Docker / SQL <img align="right" alt="Wag-pic" height="150" style="border-radius:50px;" src="https://github.com/Wagner-Dev-Souza/Wagner-Dev-Souza/blob/main/ezgif.com-gif-maker.gif">
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Wag-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,6 +30,7 @@ A DBC Company me ofereceu conteúdo e flexibilidade para atuar em QA e Desenvolv
   <img align="center" alt="Wag-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   
 </div>
+
 
 
 ## 💼 Experiência
