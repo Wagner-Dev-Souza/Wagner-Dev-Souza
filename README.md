@@ -1,6 +1,6 @@
 # Olá! Eu sou Wagner Silva Souza...😊
 
-> Desenvolvedor | QA Specialist na DBC Company (Gol/Smiles) | Full-Stack + Automação | Java, JS, Flutter, Cypress, Selenium, CI/CD
+> Desenvolvedor Full-Stack + Automação | QA Specialist na DBC Company (Gol/Smiles) | WEB & Mobile |Java, JS, Cypress, Selenium, CI/CD
 
 ## Sobre mim
 
@@ -8,9 +8,28 @@ Desenvolvedor com foco em arquitetura de software, atuando como QA Specialist na
 
 Minha jornada começou com formação sólida em Desenvolvimento Back-end pela UNOPAR, seguida por experiência full-stack durante o estágio na DBC, onde trabalhei com Java, Spring Boot, JavaScript, CSS, HTML, Flutter e Docker — desenvolvendo sistemas reais com CI/CD via GitLab, SonarQube e Jira.
 
-Hoje, aplico essa base técnica na engenharia de qualidade: automação de testes web (Cypress, Selenium), mobile (Appium, BrowserStack), API (Postman, Rest Assured), performance (JMeter) e metodologias ágeis (Scrum, Kanban). Tenho experiência completa em BDD com Cucumber/Gherkin, estratégia de testes, e documentação de bugs em Zephyr Scale.
+Hoje, aplico essa base técnica na engenharia de qualidade: automação de testes web (Cypress, Selenium), mobile (Appium, BrowserStack), API (Postman, Rest Assured), performance (JMeter) e metodologias ágeis (Scrum, Kanban, Shift-left). Tenho experiência completa em BDD com Cucumber/Gherkin, estratégia de testes, e documentação de bugs em Zephyr Scale, Notion e Confluence.
 
-A DBC me oferece flexibilidade para atuar em QA, Desenvolvimento ou Salesforce, mas minha paixão é por arquitetura de sistemas e código de qualidade — por isso continuo aprimorando habilidades em DevOps, testes shift-left e design de soluções escaláveis.
+A DBC Company me ofereceu conteúdo e flexibilidade para atuar em QA e Desenvolvimento, mas minha paixão é por arquitetura de sistemas e código de qualidade — por isso continuo aprimorando habilidades em DevOps, testes shift-left e design de soluções escaláveis.
+
+## 🛠️ Tecnologias
+
+- Python / Javascript / Typescript / Node.js / Claude / Java / Docker / SQL <img align="right" alt="Wag-pic" height="150" style="border-radius:50px;" src="https://github.com/Wagner-Dev-Souza/Wagner-Dev-Souza/blob/main/ezgif.com-gif-maker.gif">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Wag-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wag-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Wag-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Wag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wag-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Wag-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Wag-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">   
+  <img align="center" alt="Wag-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Wag-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  
+</div>
+
 
 ## 💼 Experiência
 
@@ -29,23 +48,6 @@ A DBC me oferece flexibilidade para atuar em QA, Desenvolvimento ou Salesforce, 
 - Pipeline CI/CD com Sonarqube no GitLab
 - Testes unitários com JUnit e Mockito
 - Trabalho em equipe com Git e GitHub
-
-## 🛠️ Tecnologias
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wag-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wag-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Wag-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Wag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wag-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Wag-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Wag-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">   
-  <img align="center" alt="Wag-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Wag-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-<img align="right" alt="Wag-pic" height="150" style="border-radius:50px;" src="https://github.com/Wagner-Dev-Souza/Wagner-Dev-Souza/blob/main/ezgif.com-gif-maker.gif">
-</div>
 
 ## 📊 Projetos
 
