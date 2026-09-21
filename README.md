@@ -1,6 +1,6 @@
 # Olá! Eu sou Wagner Silva Souza...😊
 
-> Desenvolvedor Full-Stack + Automação | QA Specialist na DBC Company (Gol/Smiles) | WEB & Mobile |Java, JS, Cypress, Selenium, CI/CD
+> Desenvolvedor Full-Stack + Automação | QA Specialist na DBC Company (Gol/Smiles) | WEB & Mobile | Java, JS, Cypress, Selenium, CI/CD
 
 ## Sobre mim
 
@@ -93,3 +93,16 @@ A DBC Company me ofereceu conteúdo e flexibilidade para atuar em QA e Desenvolv
     <img alt="Cobrinha de contribuições" src="https://raw.githubusercontent.com/Wagner-Dev-Souza/Wagner-Dev-Souza/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wagner--silva--souza-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/wagner-silva-souza-3a840935)
+[![Email](https://img.shields.io/badge/Email-souzawagner.ti%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:souzawagner.ti@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Wagner--Dev--Souza-181717?logo=github&logoColor=white)](https://github.com/Wagner-Dev-Souza)
+![QA](https://img.shields.io/badge/QA-automa%C3%A7%C3%A3o%20de%20testes-success)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?logo=appium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
